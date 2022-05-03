@@ -24,11 +24,11 @@ public class EquivalenteHora {
     }
 
     public void calcularSegundos() {
-        minutos = horas * 3600;
+        segundos = horas * 3600;
     }
 
     public void calcularDias() {
-        minutos = horas /24;
+        dias = horas/24;
     }
 
     public double obtenerHoras() {
