@@ -8,7 +8,7 @@ import paquetedos.EquivalenteHora;
 
 /**
  *
- * @author UTPL
+ * @author TaisBalcazar
  */
 public class Ejecutor {
 

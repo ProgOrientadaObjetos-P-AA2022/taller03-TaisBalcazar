@@ -6,7 +6,7 @@ package paquetedos;
 
 /**
  *
- * @author USUARIO
+ * @author TaisBalcazar
  */
 public class EquipoCelular {
 

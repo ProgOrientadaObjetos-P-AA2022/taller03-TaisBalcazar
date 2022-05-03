@@ -6,7 +6,7 @@ package paquetedos;
 
 /**
  *
- * @author UTPL
+ * @author TaisBalcazar
  */
 public class EquivalenteHora {
 

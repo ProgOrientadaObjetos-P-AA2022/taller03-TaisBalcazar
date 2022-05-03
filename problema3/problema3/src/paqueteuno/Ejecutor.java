@@ -8,7 +8,7 @@ import paquetedos.Instituciones;
 
 /**
  *
- * @author USUARIO
+ * @author TaisBalcazar
  */
 public class Ejecutor {
 

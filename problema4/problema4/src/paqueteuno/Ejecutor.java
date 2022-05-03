@@ -8,7 +8,7 @@ import paquetedos.EquipoCelular;
 
 /**
  *
- * @author USUARIO
+ * @author TaisBalcazar
  */
 public class Ejecutor {
 
